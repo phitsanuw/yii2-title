@@ -1,0 +1,18 @@
+{
+	"name": "phitsanuw/yii2-title",
+	"description": "Show Title Desc",
+	"type": "yii2-extension",
+	"keywords": ["yii2","extension"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Phitsanu Wipraphan",
+			"email": "wipraphan@hotmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"phitsanuw\\title\\": ""
+		}
+	}
+}
